@@ -1,0 +1,1 @@
+export { useSearchNews } from "./useSearchNews";

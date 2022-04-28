@@ -1,0 +1,1 @@
+export { useSetNews } from "./useSetNews";

@@ -1,0 +1,1 @@
+export { useCommonStyles } from "./useCommonStyles";

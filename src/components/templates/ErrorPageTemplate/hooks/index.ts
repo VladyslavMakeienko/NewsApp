@@ -1,0 +1,1 @@
+export { useIsErrorInformation } from "./useIsErrorInformation";

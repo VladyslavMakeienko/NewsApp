@@ -1,0 +1,1 @@
+export { NewsCardsContainer } from "./NewsCardsContainer/NewsCardsContainer";

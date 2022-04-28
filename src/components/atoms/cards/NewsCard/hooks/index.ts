@@ -1,0 +1,1 @@
+export { useNavigationToNews } from "./useNavigationToNews";
