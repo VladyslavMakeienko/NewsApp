@@ -1,5 +1,6 @@
 {
   "name": "news-app",
+  "homepage": "https://vladyslavmakeienko.github.io/NewsApp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
